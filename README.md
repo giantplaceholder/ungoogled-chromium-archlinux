@@ -34,11 +34,11 @@ All of this is basically an adaptation of changes introduced by [Ruthenium](//gi
 
 # Downloads?
 
-Arch packages are available as [Releases](releases). Download it and install with:
+Arch packages are available as [Releases](//github.com/giantplaceholder/ungoogled-chromium-archlinux/releases). Download and manually install with:
 
 `sudo pacman -U package-file-name`
 
-PKGBUILD auto-publishing is disabled for the moment.
+Package can also be installed from [AUR](//aur.archlinux.org/packages/ungoogled-chromium-ru-ca-bin) via any helper of your choice.
 
 # Build on your host
 
